@@ -1,4 +1,5 @@
 # VMSA-2023-0017
+https://www.vmware.com/security/advisories/VMSA-2023-0017.html
 
 Contains two vulnerabilities I had reported for VMWare Horizon Server CVE-2023-34037, CVE-2023-34038.
   
